@@ -10,7 +10,6 @@ authors:
   - name: 'Kangchen Lv'
     co_first: true
   - name: 'Mingrui Yu'
-    co_first: true
   - name: 'Yongyi Jia'
   - name: 'Chenyu Zhang'
   - name: 'Xiang Li'
